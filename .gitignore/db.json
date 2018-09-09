@@ -1,0 +1,20 @@
+[
+ {
+  "server":"IBM",
+  "model":"X201",
+  "condition":"good",
+  "imageURL":"https://i.ebayimg.com/images/g/gvAAAOSwnH1WYh5p/s-l300.jpg",
+ },
+ {
+  "server":"HP",
+  "model":"Proliant Z12",
+  "condition":"good",
+  "imageURL":"http://techhead.co/wp-content/uploads/2013/07/HP-MicroServer-G8-Review6.jpg",
+ },
+ {
+   "server":"Sun Microsystem",
+  "model":"RAC",
+  "condition":"good",
+  "imageURL":"https://i.ebayimg.com/images/g/SwQAAOSwv0tVVQhG/s-l300.jpg",
+ }
+]
